@@ -27,16 +27,16 @@ The physical prototype incorporates the following hardware:
 
 *(Note: Upload photos to an `images` directory in the repository to properly display them here)*
 
-![System Overview](image/image1.jpg)
+![System Overview](image/image1.png)
 *Overview of the automatic watering system, water reservoir, and structural frame.*
 
-![Top Angle](images/image2.jpg)
+![Top Angle](image/image2.png)
 *Top-down perspective showing the water tubing, servo motor, and control enclosure.*
 
-![Sensor Detail](images/image3.jpg)
+![Sensor Detail](image/image3.png)
 *Detailed view of the MH-RD raindrops sensor module and the protected breadboard enclosure.*
 
-![Servo Mechanism](images/image4.jpg)
+![Servo Mechanism](image/image4.png)
 *Detailed view of the TowerPro MG90S servo motor actuating the custom mechanism.*
 
 ## Setup and Installation
