@@ -27,7 +27,7 @@ The physical prototype incorporates the following hardware:
 
 *(Note: Upload photos to an `images` directory in the repository to properly display them here)*
 
-![System Overview](images/image1.jpg)
+![System Overview](image1.jpg)
 *Overview of the automatic watering system, water reservoir, and structural frame.*
 
 ![Top Angle](images/image2.jpg)
